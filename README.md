@@ -47,4 +47,7 @@ Place
 -  NumWebVisitsMonth: Number of visits to company’s web site in the last month
 
 
+Data Preparation & cleaning perform on the dataset.
+
+
 # My Tableau Work : - https://public.tableau.com/views/Task4-Dashboard/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
